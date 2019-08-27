@@ -86,4 +86,7 @@ sap的BPC系统要结合自家的erp等等软件，捆绑度高
 ## week05（19.8.26~19.8.30）
 
 ### Monday
-处理7月份数据和报表
+处理7月份数据和报表,看完azure基础教学。
+
+### Tuesday
+精改IOT二期项目PPT，看azureIOT和rainbond私有云搭建。
