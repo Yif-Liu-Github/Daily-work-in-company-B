@@ -85,8 +85,23 @@ sap的BPC系统要结合自家的erp等等软件，捆绑度高
 
 ## week05（19.8.26~19.8.30）
 
-### Monday
-处理7月份数据和报表,看完azure基础教学。
+处理7月份数据和报表,看完azure基础教学;精改IOT二期项目PPT;看azureIOT和rainbond私有云搭建，主要掌握到一些概念定义：
+1. UGC、PGC和OGC：  
++ UGC（User-generated Content，用户生产内容，也称UCC，User-created Content）
++ PGC（Professionally-generated Content，专业生产内容，也称PPC，Professionally-produced Content）
++ OGC（Occupationally-generated Content，职业生产内容）。
 
-### Tuesday
-精改IOT二期项目PPT，看azureIOT和rainbond私有云搭建。
+2.ProcFile：程序文件
+
+3.Nosql：[简介&教程](https://www.runoob.com/mongodb/nosql.html)
+
+4.nginx：Apache很好的替代品，是一个高性能的HTTP和反向代理web服务器，同时也提供了IMAP/POP3/SMTP服务。
+
+5.plugin：插件、外挂
+
+6.
+
+
+## week06（19.9.2~19.9.6）
+处理8月份数据和报表，
+
