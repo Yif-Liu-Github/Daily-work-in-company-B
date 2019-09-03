@@ -111,3 +111,11 @@ etcd
 处理8月份数据和报表，
 ### Monday
 开始处理8月份数据和报表， 并做了三个添加用户、权限管理的case。接着看云帮等。
+### Tuesday
+8月份数据报错，修错；看文档概念定义。
+1. Hadoop：Hadoop实现了一个分布式文件系统（Hadoop Distributed File System），简称HDFS。HDFS有高容错性的特点，并且设计用来部署在低廉的（low-cost）硬件上；而且它提供高吞吐量（high throughput）来访问应用程序的数据，适合那些有着超大数据集（large data set）的应用程序。HDFS放宽了（relax）POSIX的要求，可以以流的形式访问（streaming access）文件系统中的数据。
+
+2. ZooKeeper：
+
+3.RAID：磁盘阵列（Redundant Arrays of Independent Drives，RAID），有“独立磁盘构成的具有冗余能力的阵列”之意。磁盘阵列是由很多块独立的磁盘，组合成一个容量巨大的磁盘组，利用个别磁盘提供数据所产生加成效果提升整个磁盘系统效能。利用这项技术，将数据切割成许多区段，分别存放在各个硬盘上。
+
