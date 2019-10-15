@@ -126,4 +126,13 @@ etcd
 日常运维case处理；azure上部署云帮成功；学习Linux系统。
 
 ## week09（19.9.23~19.9.27）
-日常运维case处理；用UiPath帮frank解决日常繁琐业务流程。
+日常运维case处理；用UiPath帮frank、nijie解决日常繁琐业务流程。
+
+## week10（19.9.30~19.10.4）
+放假
+
+## week11（19.10.7~19.10.11）
+放假、日常运维case处理；处理rainbond部署问题；处理UIpath业务问题。
+
+## week11（19.10.14~19.10.18）
+处理9月份报表，日常运维case处理，尝试本地部署EContract。
