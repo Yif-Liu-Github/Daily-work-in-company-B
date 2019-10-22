@@ -148,5 +148,9 @@ linux、rainbond、UIpath、java还有论文到处碰壁，严重打击自信心
 
 ## week13（19.10.21~19.10.25）
 解决rainbond运行故障问题
+### Monday
 协助天津site完成第一个rpa流程
-参与沈阳site的rpa需求讨论
+
+### Tuesday
+上午：参与沈阳site的rpa需求讨论
+下午：IOT项目二期启动会
