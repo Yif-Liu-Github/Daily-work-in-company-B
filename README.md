@@ -154,3 +154,9 @@ linux、rainbond、UIpath、java还有论文到处碰壁，严重打击自信心
 ### Tuesday
 上午：参与沈阳site的rpa需求讨论
 下午：IOT项目二期启动会
+
+
+### Winsday
+冷风机
+压缩机
+冷气
