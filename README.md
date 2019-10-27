@@ -155,8 +155,14 @@ linux、rainbond、UIpath、java还有论文到处碰壁，严重打击自信心
 上午：参与沈阳site的rpa需求讨论
 下午：IOT项目二期启动会
 
-
 ### Winsday
-冷风机
-压缩机
-冷气
+一天的 iot需求洽谈会。
+冷风机、压缩机、冷气
+
+### Tuesday
+解决rainbond的K8s问题，现仅就差域名解析问题了，申请一个新域名。
+做UIPath培训ppt。
+协助部分site解决UIpath应用问题。
+
+### Friday
+UIpath培训PPT整修，以及线上培训
