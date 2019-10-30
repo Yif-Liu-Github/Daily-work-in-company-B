@@ -37,7 +37,7 @@
 4.可视化分析和报表；  
 5.弹性应变能力（比如组织结构变化）；    
 
-### Winsday
+### Wednesday
 今天上午是SAP介绍BPC Vendor Introduction，下午是Jebot Vendor Introduction  
 #### sap的BPC预算管理方案探讨  
 用户有：永达汽车 华能集团 泸州老窖  汾酒集团 可口可乐 永辉超市  康师傅 蔚来 海底捞 融创 万科 绿地 全家 小米 清华紫光 猎豹 艾玛 广大 中车四方等  
@@ -155,7 +155,7 @@ linux、rainbond、UIpath、java还有论文到处碰壁，严重打击自信心
 上午：参与沈阳site的rpa需求讨论
 下午：IOT项目二期启动会
 
-### Winsday
+### Wednesday
 一天的 iot需求洽谈会。
 冷风机、压缩机、冷气
 
@@ -179,5 +179,7 @@ UIpath培训PPT整修，以及线上培训。
 ### Tuesday
 1. rainbond部署EC失败，测试将git上的官方demo下载，上传到内网svn上，还是部署失败，所以是svn的问题而非代码。经排查日志journalctl -fu rbd-chaos确定rainbond服务器无法访问SVN服务器，已向上申请访问权限。
 2. 获L3级工程师权限，正式帮助同事P处理生产环境中的LPS事宜，解决删除订单，导出订单2个case，剩余1个case待下周执行。
-
-
+### Wednesday
+1. 处理运输管理系统case
+2. SVN服务器访问申请修改
+3. 学习UiPath文档
