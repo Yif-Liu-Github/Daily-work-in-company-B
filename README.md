@@ -198,5 +198,20 @@ UIpath培训PPT整修，以及线上培训。
 ### Monday
 
 
-## week17（19.11.18~19.11.23）
+## week17（19.11.18~19.11.22）
+### Monday
+
+### Friday
+LPS日常case处理
+日常case处理
+
+## week18（19.11.25~19.11.29）
+### Monday
+请假去了欢乐谷
+### Tuesday
+1.咨询java项目对接，要到了一个demo，暂时没时间研究看。
+2.帮助小穆解决一个rpa问题，帮其利用windows自带的task manager实现机器人的自动触发。
+3.LPS的日常case处理。
+
+## week19（19.12.2~19.12.6）
 ### Monday
